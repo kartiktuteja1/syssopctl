@@ -2,9 +2,10 @@
 
 ## Screenshots
 
-![Preview1](https://github.com/Tanishkshk1/Gamer-vim/blob/main/src-img/240409_13h30m03s_screenshot.png)
+![Preview1](https://github.com/kartiktuteja1/syssopctl/blob/main/pictures/screenshot_2024-12-13_18%3A49%3A46.png)
 
-![Preview2](https://github.com/Tanishkshk1/Gamer-vim/blob/main/src-img/240409_13h30m40s_screenshot.png)
+![Preview2](https://github.com/kartiktuteja1/syssopctl/blob/main/pictures/screenshot_2024-12-13_18%3A51%3A12.png)
+![Preview3](https://github.com/kartiktuteja1/syssopctl/blob/main/pictures/screenshot_2024-12-13_18%3A52%3A01.png)
 
 ## Installation
 
